@@ -1,14 +1,14 @@
 # Murilo Lucania
 
-**Founder of MRL NET · Software development · Business systems · Infrastructure & automation**
+**Technology entrepreneur · Founder of MRL NET · Founder & creator of ERP solutions**
 
-I create, develop, and evolve my own software solutions, connecting business processes with the infrastructure needed to run them. My portfolio spans industrial ERPs, ISP management, customer-service automation, integrations, and corporate digital experiences.
+I am a technology entrepreneur, founder of **MRL NET**, and founder and creator of the **MaxiSystem, FacilitaSystem, DecorSystem, and ApoiaGest Solution** ERP projects. I also develop **MRL Auth** and **Logos**, connecting ISP management, network operations, and customer-service automation.
 
-My work combines product ownership, full-stack development, databases, APIs, cloud operations, networking, and ongoing maintenance. I focus on practical systems that support day-to-day operations and can be tested, monitored, and improved over time.
+I turn operational needs into software products, working from business requirements and product design through full-stack development, integration, deployment, and ongoing evolution. My strength is combining a founder's business perspective with hands-on experience in software, infrastructure, and production operations.
 
-## My solutions
+## ERP platforms and solutions I founded
 
-The projects below are part of my own portfolio. I work across their planning, development, integration, and technical evolution.
+These are my own technology projects. My role spans their conception, product direction, development, integration, and technical evolution. Each solution addresses its own business context; the descriptions below reflect their current scope.
 
 | Solution | Purpose and strengths |
 | --- | --- |
@@ -17,12 +17,12 @@ The projects below are part of my own portfolio. I work across their planning, d
 | **FacilitaSystem** | Industrial ERP covering production, inventory, purchasing, sales, finance, fiscal operations, and marketplaces. |
 | **MRL Auth** | ISP management platform connecting customers, plans, billing, authentication, service orders, access control, and network operations. |
 | **Logos** | Customer-service automation integrated with MRL NET: contextual workflows, WhatsApp integrations, audio and image processing, operational reporting, and controlled escalation. |
-| **Apoiagest** | Corporate website for business services in the furniture sector, alongside the **ApoiaGest Solution** initiative, currently being structured. |
+| **Apoiagest / ApoiaGest Solution** | ERP initiative in its foundation stage, alongside a developed corporate website for business services in the furniture sector. |
 
-## What I bring to a project
+## My strengths as a founder and technology professional
 
-- **Business and technology together:** translating operational needs into software, workflows, and integrations.
-- **End-to-end development:** user interfaces, backend services, databases, APIs, deployment, and maintenance.
+- **Business-driven product creation:** understanding the operation, defining the product, and translating requirements into software and integrations.
+- **End-to-end ownership:** connecting product decisions with user interfaces, backend services, databases, APIs, deployment, and maintenance.
 - **Systems integration:** connecting ERPs, marketplaces, messaging, billing, authentication, and network services.
 - **Production operations:** working with monitoring, incident analysis, backups, traceability, and recovery.
 - **Continuous improvement:** evolving existing products with automated tests, reviewable changes, and controlled releases.
@@ -45,6 +45,7 @@ Public portfolio descriptions focus on purpose and capabilities. Proprietary sou
 ## Professional background
 
 - Founder and CEO, **MRL NET** — since December 2016
+- Founder and creator of the **MaxiSystem, FacilitaSystem, DecorSystem, and ApoiaGest Solution** ERP projects
 - Telecommunications and technology consultant, **NET RUBI FIBRA** — since April 2011
 - Degree in Systems Analysis and Development — UNOPAR, 2019
 - Bachelor's degree in Theology — UNOPAR, 2024
@@ -62,21 +63,23 @@ Open to remote software development, business systems, integrations, DevOps, inf
 
 ## Português
 
-Sou **Murilo Lucania**, fundador da **MRL NET** e criador de soluções próprias de software. Atuo na integração entre desenvolvimento de sistemas, processos empresariais, infraestrutura, redes e automação.
+Sou **Murilo Lucania**, empreendedor de tecnologia, fundador da **MRL NET** e fundador e criador dos projetos de ERP **MaxiSystem, FacilitaSystem, DecorSystem e ApoiaGest Solution**. Também desenvolvo o **MRL Auth** e a **Logos**, soluções que conectam gestão de provedores, operações de rede e automação de atendimento.
 
-Meu trabalho vai da compreensão da necessidade e da construção da solução até sua implantação, manutenção e evolução. Combino experiência em operação de provedor com o desenvolvimento de sistemas de gestão, ERPs industriais, APIs e atendimento automatizado.
+Transformo necessidades de negócio em produtos de software, atuando da concepção e definição dos processos à construção, integração, implantação e evolução das soluções. Meu diferencial é unir **visão de negócio e atuação técnica**, com experiência prática em desenvolvimento, infraestrutura e operação em produção.
 
-### Meus projetos
+### Soluções que fundei e desenvolvo
 
 - **MaxiSystem:** ERP industrial que integra estoque, produção, financeiro, fiscal e marketplaces.
 - **DecorSystem:** solução de gestão empresarial com identidade e ambiente próprios, reunindo processos operacionais, estoque, financeiro, fiscal e integrações.
 - **FacilitaSystem:** ERP industrial para produção, estoque, compras, vendas, financeiro, fiscal e marketplaces.
 - **MRL Auth:** plataforma de gestão para provedores, com clientes, planos, cobrança, autenticação, ordens de serviço e operações de rede.
 - **Logos:** automação de atendimento com contexto, integração com WhatsApp, processamento de texto, áudio e imagem, relatórios e encaminhamento para atendimento humano.
-- **Apoiagest:** site institucional para serviços empresariais do setor moveleiro e a iniciativa **ApoiaGest Solution**, em estruturação.
+- **Apoiagest / ApoiaGest Solution:** projeto próprio de ERP em estruturação, acompanhado de site institucional desenvolvido para serviços empresariais do setor moveleiro.
 
-### Pontos fortes
+### Meu diferencial
 
-**Visão de negócio, desenvolvimento de ponta a ponta, integração de sistemas e experiência com operação em produção.** Trabalho com testes automatizados, versionamento, monitoramento, rastreabilidade e publicação controlada para dar continuidade à evolução das soluções.
+**Conecto a visão de quem empreende à capacidade técnica de construir e manter a solução.** Atuo no desenho de processos, desenvolvimento de ponta a ponta, integração de sistemas e operação em produção. Essa combinação me permite acompanhar um produto desde a necessidade do negócio até sua utilização e evolução contínua.
+
+Trabalho com testes automatizados, versionamento, monitoramento, rastreabilidade e publicação controlada, mantendo o cuidado com os dados e a continuidade da operação.
 
 Estou disponível para projetos remotos, consultorias, integrações, manutenção e desenvolvimento de soluções sob medida.
