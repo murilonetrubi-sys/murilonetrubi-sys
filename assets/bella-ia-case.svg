@@ -1,0 +1,74 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="580"
+  viewBox="0 0 1200 580"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Bella IA — Atendimento e pós-venda</title>
+  <desc id="desc">
+    Setor moveleiro, marketplaces e acompanhamento de ocorrências.. Ilustração
+    editorial do estudo de caso; não é uma tela do produto.
+  </desc>
+  <rect width="1200" height="580" rx="24" fill="#442c48" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text
+      x="64"
+      y="72"
+      font-size="19"
+      font-weight="700"
+      letter-spacing="3"
+      fill="#f4b0cf"
+    >
+      MURILO LUCANIA / ESTUDO DE CASO
+    </text>
+    <text x="64" y="163" font-size="66" font-weight="700" fill="#ffffff">
+      Bella IA
+    </text>
+    <text x="64" y="215" font-size="30" fill="#ffffff">
+      Atendimento e pós-venda
+    </text>
+    <text x="64" y="267" font-size="21" fill="#ffffff">
+      Setor moveleiro, marketplaces e acompanhamento de ocorrências.
+    </text>
+
+    <g transform="translate(64 315)">
+      <circle cx="78" cy="82" r="76" fill="#62405d" />
+      <path
+        d="M32 57L78 32L124 57V110L78 135L32 110Z M32 57L78 83L124 57 M78 83V135 M55 44L101 70"
+        fill="none"
+        stroke="#f4b0cf"
+        stroke-width="4"
+      />
+      <path d="M196 82H290" stroke="#f4b0cf" stroke-width="3" />
+      <rect x="290" y="21" width="336" height="122" rx="14" fill="#62405d" />
+      <text x="318" y="66" font-size="24" font-weight="700" fill="#ffffff">
+        PÓS-VENDA
+      </text>
+      <text x="318" y="105" font-size="20" fill="#ffffff">
+        Pedido · Entrega · Ocorrência
+      </text>
+      <path d="M626 82H726" stroke="#f4b0cf" stroke-width="3" />
+      <circle cx="754" cy="82" r="16" fill="#f4b0cf" />
+      <path d="M770 82H817" stroke="#f4b0cf" stroke-width="3" />
+      <text x="846" y="72" font-size="24" font-weight="700" fill="#ffffff">
+        REVISÃO
+      </text>
+      <text x="846" y="108" font-size="18" fill="#ffffff">
+        Acompanhamento humano
+      </text>
+    </g>
+    <path d="M64 508H1136" stroke="#f4b0cf" opacity=".5" />
+    <text
+      x="64"
+      y="544"
+      font-size="17"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#ffffff"
+    >
+      ILUSTRAÇÃO EDITORIAL · NÃO É UMA TELA DO PRODUTO
+    </text>
+  </g>
+</svg>

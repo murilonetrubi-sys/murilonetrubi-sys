@@ -1,0 +1,82 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="580"
+  viewBox="0 0 1200 580"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">MaxiSystem — ERP para a indústria de móveis</title>
+  <desc id="desc">
+    Gestão, estoque, produção e integração operacional.. Ilustração editorial do
+    estudo de caso; não é uma tela do produto.
+  </desc>
+  <rect width="1200" height="580" rx="24" fill="#202c39" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text
+      x="64"
+      y="72"
+      font-size="19"
+      font-weight="700"
+      letter-spacing="3"
+      fill="#ffb454"
+    >
+      MURILO LUCANIA / ESTUDO DE CASO
+    </text>
+    <text x="64" y="163" font-size="66" font-weight="700" fill="#ffffff">
+      MaxiSystem
+    </text>
+    <text x="64" y="215" font-size="30" fill="#ffffff">
+      ERP para a indústria de móveis
+    </text>
+    <text x="64" y="267" font-size="21" fill="#ffffff">
+      Gestão, estoque, produção e integração operacional.
+    </text>
+
+    <g transform="translate(64 318)">
+      <path d="M0 136V52L64 12V52L128 12V52L192 12V136Z" fill="#ffb454" />
+      <path
+        d="M24 84H52M80 84H108M136 84H164"
+        stroke="#202c39"
+        stroke-width="12"
+      />
+      <path
+        d="M234 76H292M292 76L278 62M292 76L278 90"
+        fill="none"
+        stroke="#ffb454"
+        stroke-width="4"
+      />
+      <rect x="332" y="20" width="264" height="114" rx="12" fill="#344555" />
+      <text x="360" y="65" font-size="24" font-weight="700" fill="#ffffff">
+        ESTOQUE
+      </text>
+      <text x="360" y="104" font-size="18" fill="#ffffff">
+        Pedidos · Movimentações
+      </text>
+      <path
+        d="M638 76H696M696 76L682 62M696 76L682 90"
+        fill="none"
+        stroke="#ffb454"
+        stroke-width="4"
+      />
+      <rect x="736" y="20" width="332" height="114" rx="12" fill="#344555" />
+      <text x="764" y="65" font-size="22" font-weight="700" fill="#ffffff">
+        OPERAÇÃO INDUSTRIAL
+      </text>
+      <text x="764" y="104" font-size="20" fill="#ffffff">
+        Produção · Financeiro · Fiscal
+      </text>
+    </g>
+    <path d="M64 508H1136" stroke="#ffb454" opacity=".5" />
+    <text
+      x="64"
+      y="544"
+      font-size="17"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#ffffff"
+    >
+      ILUSTRAÇÃO EDITORIAL · NÃO É UMA TELA DO PRODUTO
+    </text>
+  </g>
+</svg>

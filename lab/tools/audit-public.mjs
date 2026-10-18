@@ -45,9 +45,15 @@ async function visit(directory) {
       failures.push("Non-loopback address found");
     if (/\b55\d{11}\b|\b\d{3}\.\d{3}\.\d{3}-\d{2}\b/.test(text))
       failures.push("Personal identifier pattern found");
-    const browserText = text.replaceAll("http://www.w3.org/2000/svg", "");
+    const browserText = text
+      .replaceAll("http://www.w3.org/2000/svg", "")
+      .replaceAll(
+        "https://github.com/murilonetrubi-sys/murilonetrubi-sys/blob/main/portfolio/",
+        "",
+      );
     if (
-      path.pathname.includes("/lab/public/") &&
+      (path.pathname.includes("/lab/public/") ||
+        /\/showcase\/(?:app\.mjs|style\.css)$/.test(path.pathname)) &&
       /https?:\/\/|fetch\(|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|document\.cookie/.test(
         browserText,
       )
@@ -63,9 +69,12 @@ for (const path of [
   "README.md",
   "portfolio/README.md",
   "portfolio/maxisystem.md",
+  "portfolio/facilitasystem.md",
+  "portfolio/decorsystem.md",
   "portfolio/mrl-auth.md",
   "portfolio/logos.md",
   "portfolio/bella-ia.md",
+  "showcase/README.md",
 ]) {
   const text = await readFile(new URL(path, root), "utf8");
   for (const match of text.matchAll(/\]\(([^)]+)\)/g)) {

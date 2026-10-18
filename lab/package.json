@@ -11,6 +11,8 @@
     "start": "node server.mjs",
     "test": "node --test test/*.test.mjs",
     "test:ui": "node tools/browser-check.mjs",
+    "test:portfolio": "node tools/portfolio-visual.mjs",
+    "test:showcase": "node tools/showcase-check.mjs",
     "capture": "node tools/browser-check.mjs --capture",
     "audit:public": "node tools/audit-public.mjs"
   },

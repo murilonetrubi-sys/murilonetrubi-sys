@@ -1,27 +1,51 @@
 # Murilo Lucania
 
+[![Vitrine de Murilo Lucania — produtos próprios, engenharia aplicada](assets/showcase-desktop.jpg)](showcase/README.md)
+
+**[Conhecer a vitrine navegável em HTML, CSS e JavaScript](showcase/README.md) · [Ver os seis projetos na vitrine](assets/showcase-projects.jpg) · [Visual em celular](assets/showcase-mobile.jpg)**
+
+Esta é uma captura do meu **portfólio público**, não da interface de um sistema comercial. A vitrine possui filtros por área e uma apresentação individual para cada projeto; o código e as instruções para execução estão disponíveis.
+
 **Empreendedor de tecnologia · Fundador da MRL NET · Criador de plataformas ERP e soluções de atendimento inteligente**
 
 Sou **Murilo Lucania**, fundador da **MRL NET** e fundador e criador dos projetos de ERP **MaxiSystem, FacilitaSystem, DecorSystem e ApoiaGest Solution**. Também sou criador do **MRL Auth**, da **Logos** e da **Bella IA**, soluções voltadas à gestão de provedores, automação de atendimento e pós-venda no setor moveleiro e em marketplaces.
 
 Transformo necessidades de negócio em produtos de software, atuando da concepção e definição dos processos à construção, integração, implantação e evolução das soluções. Meu diferencial é unir **visão de negócio e atuação técnica**, com experiência prática em desenvolvimento, infraestrutura e operação em produção.
 
-## Em destaque · Veja o trabalho na prática
+## Em destaque · Produtos próprios, contextos distintos
 
-[![Verificação do laboratório](https://github.com/murilonetrubi-sys/murilonetrubi-sys/actions/workflows/portfolio.yml/badge.svg)](https://github.com/murilonetrubi-sys/murilonetrubi-sys/actions/workflows/portfolio.yml)
+[![MaxiSystem — ERP para a indústria de móveis](assets/maxisystem-case.svg)](portfolio/maxisystem.md)
 
-[![Laboratório público com dados sintéticos](assets/lab-overview.jpg)](portfolio/README.md)
+[![FacilitaSystem — ERP para o setor de estofados](assets/facilitasystem-case.svg)](portfolio/facilitasystem.md)
+
+[![DecorSystem — gestão para o setor de estofados](assets/decorsystem-case.svg)](portfolio/decorsystem.md)
+
+[![MRL Auth — plataforma de gestão para provedores](assets/mrl-auth-case.svg)](portfolio/mrl-auth.md)
+
+[![Logos — automação de atendimento](assets/logos-case.svg)](portfolio/logos.md)
+
+[![Bella IA — atendimento e pós-venda](assets/bella-ia-case.svg)](portfolio/bella-ia.md)
+
+Cada capa apresenta um sistema e sua finalidade. São ilustrações editoriais dos estudos de caso, não capturas das interfaces nem propostas de identidade visual oficial. **MaxiSystem atende à indústria de móveis; FacilitaSystem e DecorSystem são voltados ao setor de estofados.** A Logos integra o ecossistema do MRL Auth, mas possui responsabilidades próprias; a Bella IA atende ao contexto de atendimento e pós-venda.
 
 | Estudo de caso | O que você pode avaliar |
 | --- | --- |
-| [**MaxiSystem — ERP industrial**](portfolio/maxisystem.md) | Integração entre processos, estoque e rastreabilidade |
+| [**MaxiSystem — indústria de móveis**](portfolio/maxisystem.md) | Gestão industrial, estoque, produção e integração |
+| [**FacilitaSystem — estofados**](portfolio/facilitasystem.md) | Produção, materiais, compras, vendas e gestão |
+| [**DecorSystem — estofados**](portfolio/decorsystem.md) | Processos empresariais, estoque, financeiro e integrações |
 | [**MRL Auth — gestão de provedor**](portfolio/mrl-auth.md) | Responsabilidades, autenticação e controle de acesso |
 | [**Logos — atendimento com contexto**](portfolio/logos.md) | Continuidade, referências e limites entre domínios |
 | [**Bella IA — pós-venda responsável**](portfolio/bella-ia.md) | Ocorrências, contexto e revisão humana |
 
-**[Explorar os estudos](portfolio/README.md) · [Executar o projeto público](lab/README.md) · [Assistir à demonstração curta](assets/lab-walkthrough.webm)**
+**[Explorar os seis estudos de caso](portfolio/README.md)**
 
-As imagens e o vídeo mostram um laboratório educativo independente, com dados fictícios. O código público demonstra conceitos de engenharia; os sistemas comerciais e seus dados permanecem privados.
+### Projeto público independente · Operational Flow Lab
+
+[![Verificação do laboratório e do portfólio](https://github.com/murilonetrubi-sys/murilonetrubi-sys/actions/workflows/portfolio.yml/badge.svg)](https://github.com/murilonetrubi-sys/murilonetrubi-sys/actions/workflows/portfolio.yml)
+
+O laboratório é uma aplicação educativa separada, escrita para demonstrar conceitos de engenharia com dados fictícios. Seu vídeo e suas capturas mostram somente o laboratório: **não são demonstrações dos seis sistemas apresentados acima**. Código e interfaces comerciais permanecem privados.
+
+[Executar o laboratório](lab/README.md) · [Vídeo exclusivo do laboratório](assets/lab-walkthrough.webm) · [Captura do laboratório](assets/lab-overview.jpg)
 
 ## Plataformas ERP e soluções que fundei
 
@@ -29,9 +53,9 @@ Estes são projetos próprios do meu portfólio. Atuo na concepção, direção 
 
 | Solução | Finalidade e pontos fortes |
 | --- | --- |
-| **MaxiSystem** | ERP industrial que conecta estoque, produção, financeiro, processos fiscais e integrações com marketplaces. |
-| **DecorSystem** | Solução de gestão empresarial com identidade e ambiente próprios, reunindo processos operacionais, estoque, financeiro, fiscal e integrações. |
-| **FacilitaSystem** | ERP industrial para produção, estoque, compras, vendas, financeiro, operações fiscais e marketplaces. |
+| **MaxiSystem** | ERP para a indústria de móveis que conecta estoque, produção, financeiro, processos fiscais e integrações com marketplaces. |
+| **DecorSystem** | Gestão empresarial para o setor de estofados, com identidade e ambiente próprios, reunindo processos operacionais, estoque, financeiro, fiscal e integrações. |
+| **FacilitaSystem** | ERP para o setor de estofados, com produção, estoque, compras, vendas, financeiro, operações fiscais e marketplaces. |
 | **MRL Auth** | Plataforma de gestão para provedores que integra clientes, planos, cobrança, autenticação, ordens de serviço, controle de acesso e operações de rede. |
 | **Logos** | Automação de atendimento integrada à MRL NET, com fluxos contextuais, integração com WhatsApp, processamento de áudio e imagem, relatórios e encaminhamento para atendimento humano. |
 | **Bella IA** | Assistente inteligente voltada ao atendimento e pós-venda no setor moveleiro e em marketplaces, com interpretação de contexto, fluxos próprios do negócio e encaminhamento para atendimento humano. |
@@ -91,11 +115,17 @@ I turn operational needs into software products, working from business requireme
 
 ## Featured work · Explore the engineering
 
-Four public case studies: [MaxiSystem](portfolio/maxisystem.md#english), [MRL Auth](portfolio/mrl-auth.md#english), [Logos](portfolio/logos.md#english), and [Bella IA](portfolio/bella-ia.md#english).
+Six distinct solutions: [MaxiSystem — furniture manufacturing ERP](portfolio/maxisystem.md#english), [FacilitaSystem — upholstery ERP](portfolio/facilitasystem.md#english), [DecorSystem — upholstery business management](portfolio/decorsystem.md#english), [MRL Auth — ISP management](portfolio/mrl-auth.md#english), [Logos — service automation](portfolio/logos.md#english), and [Bella IA — customer service and after-sales](portfolio/bella-ia.md#english).
 
-**[Run the public sample](lab/README.md#english) · [Watch the short demo](assets/lab-walkthrough.webm) · [View the case studies](portfolio/README.md#english)**
+Each case has its own editorial cover, not a product screenshot or an official brand redesign. Logos integrates with MRL Auth but has separate responsibilities; Bella IA serves a different business context. Commercial interfaces and source code remain private.
 
-The screenshots and video show an independently written educational lab using synthetic data, not the proprietary products. Public tests validate this sample only.
+**[View the six case studies](portfolio/README.md#english)**
+
+### Separate public project · Operational Flow Lab
+
+[Run the educational lab](lab/README.md#english) · [Watch the lab-only video](assets/lab-walkthrough.webm)
+
+The lab is a separately written educational application using synthetic data. Its screenshots, video and tests represent the lab only, not any of the six products.
 
 ## ERP platforms and solutions I founded
 
@@ -103,9 +133,9 @@ These are my own technology projects. My role spans their conception, product di
 
 | Solution | Purpose and strengths |
 | --- | --- |
-| **MaxiSystem** | Industrial ERP connecting inventory, production, finance, fiscal workflows, and marketplace integrations. |
-| **DecorSystem** | Business management solution with its own identity and environment, bringing together operational, financial, fiscal, inventory, and integration workflows. |
-| **FacilitaSystem** | Industrial ERP covering production, inventory, purchasing, sales, finance, fiscal operations, and marketplaces. |
+| **MaxiSystem** | ERP for furniture manufacturing, connecting inventory, production, finance, fiscal workflows, and marketplace integrations. |
+| **DecorSystem** | Business management for the upholstery sector, with its own identity and environment, connecting operations, inventory, finance, fiscal workflows, and integrations. |
+| **FacilitaSystem** | ERP for the upholstery sector, covering production, inventory, purchasing, sales, finance, fiscal operations, and marketplaces. |
 | **MRL Auth** | ISP management platform connecting customers, plans, billing, authentication, service orders, access control, and network operations. |
 | **Logos** | Customer-service automation integrated with MRL NET: contextual workflows, WhatsApp integrations, audio and image processing, operational reporting, and controlled escalation. |
 | **Bella IA** | Intelligent assistant for customer service and after-sales in the furniture sector and marketplaces, with conversational context, domain-specific workflows, and human escalation. |

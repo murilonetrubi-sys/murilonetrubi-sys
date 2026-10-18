@@ -8,6 +8,7 @@ on:
         "lab/**",
         "portfolio/**",
         "assets/**",
+        "showcase/**",
         "README.md",
         ".github/workflows/portfolio.yml",
       ]
@@ -17,6 +18,7 @@ on:
         "lab/**",
         "portfolio/**",
         "assets/**",
+        "showcase/**",
         "README.md",
         ".github/workflows/portfolio.yml",
       ]
@@ -51,3 +53,9 @@ jobs:
       - name: Desktop and mobile browser checks
         working-directory: lab
         run: npm run test:ui
+      - name: Distinct project covers on desktop and mobile
+        working-directory: lab
+        run: npm run test:portfolio
+      - name: Responsive futuristic portfolio and project navigation
+        working-directory: lab
+        run: npm run test:showcase

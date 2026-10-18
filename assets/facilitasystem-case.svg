@@ -1,0 +1,63 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="580"
+  viewBox="0 0 1200 580"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">FacilitaSystem — ERP para o setor de estofados</title>
+  <desc id="desc">
+    Produção, materiais e gestão da operação.. Ilustração editorial; não é uma
+    tela do produto.
+  </desc>
+  <rect width="1200" height="580" rx="24" fill="#323c25" />
+  <g font-family="Arial, Helvetica, sans-serif" fill="#ffffff">
+    <text
+      x="64"
+      y="72"
+      font-size="19"
+      font-weight="700"
+      letter-spacing="3"
+      fill="#d4ed83"
+    >
+      MURILO LUCANIA / ESTUDO DE CASO
+    </text>
+    <text x="64" y="163" font-size="66" font-weight="700">FacilitaSystem</text>
+    <text x="64" y="215" font-size="30">ERP para o setor de estofados</text>
+    <text x="64" y="267" font-size="21">
+      Produção, materiais e gestão da operação.
+    </text>
+
+    <g transform="translate(64 326)">
+      <rect
+        x="12"
+        y="26"
+        width="218"
+        height="90"
+        rx="16"
+        fill="none"
+        stroke="#d4ed83"
+        stroke-width="5"
+      />
+      <path
+        d="M20 65H222M120 30V65M0 75V128H244V75M25 128V145M219 128V145"
+        fill="none"
+        stroke="#d4ed83"
+        stroke-width="5"
+      />
+      <path d="M296 78H350" stroke="#d4ed83" stroke-width="4" />
+      <rect x="350" y="18" width="310" height="122" rx="12" fill="#4c5937" />
+      <text x="378" y="62" font-size="24" font-weight="700">OPERAÇÃO</text>
+      <text x="378" y="102" font-size="17">Produção · Estoque · Compras</text>
+      <path d="M660 78H734" stroke="#d4ed83" stroke-width="4" />
+      <rect x="734" y="18" width="334" height="122" rx="12" fill="#4c5937" />
+      <text x="762" y="62" font-size="24" font-weight="700">GESTÃO</text>
+      <text x="762" y="102" font-size="20">Vendas · Financeiro · Fiscal</text>
+    </g>
+    <path d="M64 508H1136" stroke="#d4ed83" opacity=".5" />
+    <text x="64" y="544" font-size="17" font-weight="700" letter-spacing="1">
+      ILUSTRAÇÃO EDITORIAL · NÃO É UMA TELA DO PRODUTO
+    </text>
+  </g>
+</svg>

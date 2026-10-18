@@ -1,0 +1,83 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="580"
+  viewBox="0 0 1200 580"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Logos — Automação de atendimento</title>
+  <desc id="desc">
+    Contexto, regras de domínio e continuidade da conversa.. Ilustração
+    editorial do estudo de caso; não é uma tela do produto.
+  </desc>
+  <rect width="1200" height="580" rx="24" fill="#103b35" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text
+      x="64"
+      y="72"
+      font-size="19"
+      font-weight="700"
+      letter-spacing="3"
+      fill="#84e0bf"
+    >
+      MURILO LUCANIA / ESTUDO DE CASO
+    </text>
+    <text x="64" y="163" font-size="66" font-weight="700" fill="#ffffff">
+      Logos
+    </text>
+    <text x="64" y="215" font-size="30" fill="#ffffff">
+      Automação de atendimento
+    </text>
+    <text x="64" y="267" font-size="21" fill="#ffffff">
+      Contexto, regras de domínio e continuidade da conversa.
+    </text>
+
+    <g transform="translate(64 320)">
+      <path d="M0 12H270V112H60L28 144V112H0Z" fill="#84e0bf" />
+      <text x="28" y="55" font-size="24" font-weight="700" fill="#103b35">
+        MENSAGEM
+      </text>
+      <text x="28" y="91" font-size="18" fill="#103b35">
+        Texto · Áudio · Imagem
+      </text>
+      <path
+        d="M305 65H367M367 65L351 49M367 65L351 81"
+        fill="none"
+        stroke="#84e0bf"
+        stroke-width="4"
+      />
+      <rect x="406" y="12" width="256" height="118" rx="26" fill="#20554a" />
+      <text x="434" y="57" font-size="24" font-weight="700" fill="#ffffff">
+        CONTEXTO
+      </text>
+      <text x="434" y="95" font-size="16" fill="#ffffff">
+        Assunto · Etapa · Evidência
+      </text>
+      <path
+        d="M700 65H760M760 65L744 49M760 65L744 81"
+        fill="none"
+        stroke="#84e0bf"
+        stroke-width="4"
+      />
+      <path d="M800 12H1068V130H832L800 154Z" fill="#20554a" />
+      <text x="828" y="57" font-size="24" font-weight="700" fill="#ffffff">
+        CONTINUIDADE
+      </text>
+      <text x="828" y="95" font-size="17" fill="#ffffff">
+        Resposta ou revisão humana
+      </text>
+    </g>
+    <path d="M64 508H1136" stroke="#84e0bf" opacity=".5" />
+    <text
+      x="64"
+      y="544"
+      font-size="17"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#ffffff"
+    >
+      ILUSTRAÇÃO EDITORIAL · NÃO É UMA TELA DO PRODUTO
+    </text>
+  </g>
+</svg>

@@ -1,10 +1,14 @@
-# MaxiSystem · Integração entre gestão e operação industrial
+# MaxiSystem · ERP para a indústria de móveis
+
+![MaxiSystem — ERP para a indústria de móveis](../assets/maxisystem-case.svg)
+
+*Capa editorial deste estudo; não é uma captura da interface do MaxiSystem.*
 
 **Meu papel:** fundador e criador do projeto, com atuação em concepção, desenvolvimento, integração e evolução técnica.
 
 ## Problema
 
-Estoque, pedidos, produção, financeiro, fiscal e canais de venda precisam compartilhar informações consistentes. Uma operação repetida, um saldo divergente ou uma etapa sem rastreabilidade pode repercutir em várias áreas do negócio.
+Na **indústria de móveis**, estoque, pedidos, produção, financeiro, fiscal e canais de venda precisam compartilhar informações consistentes. Uma operação repetida, um saldo divergente ou uma etapa sem rastreabilidade pode repercutir em várias áreas do negócio.
 
 ## Solução e decisões
 
@@ -18,15 +22,32 @@ O MaxiSystem organiza esses processos em um ERP industrial. O recorte deste estu
 
 Essa descrição é uma visão funcional e arquitetural de alto nível. Não apresenta regras comerciais, dados de empresas ou detalhes da infraestrutura.
 
+## Visão do produto
+
+| Frente | Responsabilidade na gestão |
+| --- | --- |
+| Estoque e pedidos | Relacionar movimentações, disponibilidade e demanda comercial. |
+| Produção | Integrar o acompanhamento industrial aos demais processos. |
+| Financeiro e fiscal | Conectar registros de gestão às operações da empresa. |
+| Marketplaces | Integrar canais de venda sem perder a referência das operações. |
+
+## Decisões de engenharia e compromissos
+
+**Modularidade:** separar responsabilidades permite evoluir uma área sem concentrar todas as regras em um único serviço. As integrações entre módulos continuam exigindo contratos e testes.
+
+**Processamento em segundo plano:** integrações podem levar mais tempo que a interação na tela. Separá-las da apresentação exige estados acompanháveis e tratamento de falhas, em vez de presumir conclusão imediata.
+
+**Idempotência e rastreabilidade:** uma operação recebida novamente precisa ser distinguida de uma operação nova. Registrar sua referência permite investigar o percurso sem confundir tentativa e resultado.
+
 ## Resultado e evidência
 
-A documentação técnica revisada descreve os módulos e sua integração operacional. Para avaliação pública, preparei uma implementação independente de **reserva de estoque**. Nela, é possível verificar que a repetição não duplica a reserva e que uma quantidade indisponível não reduz o saldo.
+A documentação técnica revisada descreve os módulos e sua integração operacional. O estudo público apresenta o problema e as decisões de engenharia, preservando a interface comercial e os dados das empresas. Não são divulgados indicadores de redução de custos, produtividade ou escala de produção sem medição publicável.
 
-![Laboratório educativo de reserva de estoque](../assets/lab-overview.jpg)
+## Material educativo separado
 
-**A imagem é do laboratório, não do MaxiSystem.** Os números são fictícios. Não são divulgados indicadores de redução de custos, produtividade ou escala de produção.
+O [Operational Flow Lab](../lab/README.md) contém um exemplo independente de reserva de estoque e [testes de repetição e conservação de saldo](../lab/test/engine.test.mjs). É outro projeto, não uma versão pública, uma tela ou uma demonstração do MaxiSystem.
 
-[Executar a demonstração](../lab/README.md) · [Ler os testes públicos](../lab/test/engine.test.mjs) · [Voltar ao portfólio](README.md)
+[FacilitaSystem — estofados](facilitasystem.md) · [DecorSystem — estofados](decorsystem.md) · [Voltar aos seis estudos](README.md)
 
 ---
 
@@ -34,8 +55,8 @@ A documentação técnica revisada descreve os módulos e sua integração opera
 
 **Role:** project founder and creator, spanning product conception, development, integration, and technical evolution.
 
-MaxiSystem addresses the coordination of inventory, orders, production, finance, fiscal workflows, and sales channels. Selected design decisions include modular business responsibilities, background processing, traceable state transitions, and idempotent integration flows.
+MaxiSystem is an ERP for **furniture manufacturing**, coordinating inventory, orders, production, finance, fiscal workflows, and sales channels. FacilitaSystem and DecorSystem serve the upholstery sector as distinct projects. Selected design decisions include modular business responsibilities, background processing, traceable state transitions, and idempotent integration flows.
 
-The public evidence is a separately written inventory sample. Its tests verify stock conservation, insufficient-stock rejection, and repeated-operation handling. This is not the proprietary ERP, a production screenshot, or evidence of quantified commercial gains.
+The cover is an editorial illustration, not the MaxiSystem interface. This case describes high-level engineering decisions; the commercial product remains private. A separate educational inventory sample tests stock conservation and repeated operations. It is not a MaxiSystem demo or evidence of quantified commercial gains.
 
 [Public sample](../lab/README.md#english) · [Tests](../lab/test/engine.test.mjs)

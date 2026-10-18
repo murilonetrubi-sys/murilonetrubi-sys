@@ -39,6 +39,7 @@ Para os testes de interface e a reprodução das capturas:
 npm ci --ignore-scripts
 npx playwright install chromium
 npm run test:ui
+npm run test:portfolio
 npm run capture
 ```
 
