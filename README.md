@@ -49,6 +49,7 @@ As descrições públicas apresentam a finalidade e as capacidades das soluçõe
 - Fundador e criador dos projetos de ERP **MaxiSystem, FacilitaSystem, DecorSystem e ApoiaGest Solution**
 - Criador do **MRL Auth**, da **Logos** e da **Bella IA** — soluções de gestão, automação e atendimento inteligente
 - Consultor de telecomunicações e tecnologia na **NET RUBI FIBRA** — desde abril de 2011
+- Bacharelado em Engenharia de Software
 - Formação em Análise e Desenvolvimento de Sistemas — UNOPAR, 2019
 - Bacharelado em Teologia — UNOPAR, 2024
 - Professor de Teologia
@@ -114,6 +115,7 @@ Public portfolio descriptions focus on purpose and capabilities. Proprietary sou
 - Founder and creator of the **MaxiSystem, FacilitaSystem, DecorSystem, and ApoiaGest Solution** ERP projects
 - Creator of **MRL Auth**, **Logos**, and **Bella IA** — management, automation, and intelligent customer-service solutions
 - Telecommunications and technology consultant, **NET RUBI FIBRA** — since April 2011
+- Bachelor's degree in Software Engineering
 - Degree in Systems Analysis and Development — UNOPAR, 2019
 - Bachelor's degree in Theology — UNOPAR, 2024
 - Theology lecturer
