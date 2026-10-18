@@ -6,6 +6,23 @@ Sou **Murilo Lucania**, fundador da **MRL NET** e fundador e criador dos projeto
 
 Transformo necessidades de negócio em produtos de software, atuando da concepção e definição dos processos à construção, integração, implantação e evolução das soluções. Meu diferencial é unir **visão de negócio e atuação técnica**, com experiência prática em desenvolvimento, infraestrutura e operação em produção.
 
+## Em destaque · Veja o trabalho na prática
+
+[![Verificação do laboratório](https://github.com/murilonetrubi-sys/murilonetrubi-sys/actions/workflows/portfolio.yml/badge.svg)](https://github.com/murilonetrubi-sys/murilonetrubi-sys/actions/workflows/portfolio.yml)
+
+[![Laboratório público com dados sintéticos](assets/lab-overview.jpg)](portfolio/README.md)
+
+| Estudo de caso | O que você pode avaliar |
+| --- | --- |
+| [**MaxiSystem — ERP industrial**](portfolio/maxisystem.md) | Integração entre processos, estoque e rastreabilidade |
+| [**MRL Auth — gestão de provedor**](portfolio/mrl-auth.md) | Responsabilidades, autenticação e controle de acesso |
+| [**Logos — atendimento com contexto**](portfolio/logos.md) | Continuidade, referências e limites entre domínios |
+| [**Bella IA — pós-venda responsável**](portfolio/bella-ia.md) | Ocorrências, contexto e revisão humana |
+
+**[Explorar os estudos](portfolio/README.md) · [Executar o projeto público](lab/README.md) · [Assistir à demonstração curta](assets/lab-walkthrough.webm)**
+
+As imagens e o vídeo mostram um laboratório educativo independente, com dados fictícios. O código público demonstra conceitos de engenharia; os sistemas comerciais e seus dados permanecem privados.
+
 ## Plataformas ERP e soluções que fundei
 
 Estes são projetos próprios do meu portfólio. Atuo na concepção, direção do produto, desenvolvimento, integração e evolução técnica, respeitando o contexto e o estágio de cada solução.
@@ -71,6 +88,14 @@ Disponível para oportunidades remotas em desenvolvimento de software, sistemas 
 I am a technology entrepreneur, founder of **MRL NET**, and founder and creator of the **MaxiSystem, FacilitaSystem, DecorSystem, and ApoiaGest Solution** ERP projects. I am also the creator of **MRL Auth, Logos, and Bella IA**, extending my portfolio into ISP management, intelligent customer service, and marketplace after-sales workflows.
 
 I turn operational needs into software products, working from business requirements and product design through full-stack development, integration, deployment, and ongoing evolution. My strength is combining a founder's business perspective with hands-on experience in software, infrastructure, and production operations.
+
+## Featured work · Explore the engineering
+
+Four public case studies: [MaxiSystem](portfolio/maxisystem.md#english), [MRL Auth](portfolio/mrl-auth.md#english), [Logos](portfolio/logos.md#english), and [Bella IA](portfolio/bella-ia.md#english).
+
+**[Run the public sample](lab/README.md#english) · [Watch the short demo](assets/lab-walkthrough.webm) · [View the case studies](portfolio/README.md#english)**
+
+The screenshots and video show an independently written educational lab using synthetic data, not the proprietary products. Public tests validate this sample only.
 
 ## ERP platforms and solutions I founded
 

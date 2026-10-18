@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Laboratório público de Murilo Lucania: operações rastreáveis e atendimento com contexto, usando somente dados fictícios."
+    />
+    <title>Operational Flow Lab · Murilo Lucania</title>
+    <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/style.css" />
+    <script type="module" src="/app.mjs"></script>
+  </head>
+  <body>
+    <a class="skip" href="#workspace">Ir para a demonstração</a>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Início"
+        ><span class="monogram">ML<span>↗</span></span
+        ><span>Murilo Lucania<small>SOFTWARE & OPERAÇÕES</small></span></a
+      ><span class="demo-badge"><i></i> DEMONSTRAÇÃO SINTÉTICA</span>
+    </header>
+    <main>
+      <section class="intro">
+        <p class="eyebrow">PORTFÓLIO TÉCNICO / LAB 01</p>
+        <h1>
+          Software com contexto.<br /><span
+            >Operações com rastreabilidade.</span
+          >
+        </h1>
+        <p class="lead">
+          Uma experiência interativa sobre estoque, continuidade de atendimento
+          e revisão humana. Criada para apresentar decisões de engenharia com
+          clareza.
+        </p>
+        <div class="intro-meta">
+          <span>Node.js + JavaScript</span><span>Testes automatizados</span
+          ><span>Execução local</span>
+        </div>
+      </section>
+      <section class="lab" aria-label="Laboratório interativo">
+        <aside class="navigation">
+          <p class="eyebrow">EXPERIMENTE</p>
+          <nav aria-label="Cenários">
+            <button
+              class="nav-item selected"
+              data-view="inventory"
+              aria-pressed="true"
+            >
+              <span class="nav-number">01</span
+              ><span
+                >Estoque confiável<small>Reserva e idempotência</small></span
+              ><b>↗</b></button
+            ><button class="nav-item" data-view="context" aria-pressed="false">
+              <span class="nav-number">02</span
+              ><span
+                >Atendimento com contexto<small
+                  >Seleção e continuidade</small
+                ></span
+              ><b>↗</b></button
+            ><button class="nav-item" data-view="review" aria-pressed="false">
+              <span class="nav-number">03</span
+              ><span
+                >Pós-venda responsável<small
+                  >Evidência e revisão humana</small
+                ></span
+              ><b>↗</b></button
+            ><button class="nav-item" data-view="access" aria-pressed="false">
+              <span class="nav-number">04</span
+              ><span
+                >Gestão e permissões<small
+                  >Acesso explícito por papel</small
+                ></span
+              ><b>↗</b>
+            </button>
+          </nav>
+          <div class="scope">
+            <span class="scope-mark">◎</span
+            ><strong>Dados fictícios. Código próprio.</strong>
+            <p>
+              Laboratório educativo independente. Não é uma tela dos sistemas
+              comerciais e não acessa serviços externos.
+            </p>
+          </div>
+        </aside>
+        <div id="workspace" class="workspace" tabindex="-1"></div>
+      </section>
+      <footer>
+        <span>PROJETO PÚBLICO · MURILO LUCANIA</span>
+        <p>
+          Sem autenticação, telemetria, banco ou envio de mensagens. O estado
+          existe apenas nesta página e é apagado ao recarregar.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
